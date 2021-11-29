@@ -2,3 +2,4 @@
 .idea/
 # private stuff
 .mySlides/
+*.csv
